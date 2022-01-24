@@ -1,0 +1,1 @@
+print(float('2x.5'))

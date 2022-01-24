@@ -1,0 +1,1 @@
+ print("The {0} of 10 is {1:o}".format("octal", 10))

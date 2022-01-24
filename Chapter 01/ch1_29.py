@@ -1,0 +1,1 @@
+print("It is {0:5} degrees !".format(34))

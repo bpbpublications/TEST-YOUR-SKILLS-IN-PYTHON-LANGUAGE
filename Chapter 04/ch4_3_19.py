@@ -1,0 +1,1 @@
+print(bool('Shiv')) #True

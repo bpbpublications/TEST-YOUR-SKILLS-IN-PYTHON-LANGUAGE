@@ -1,0 +1,1 @@
+val=int(input('Enter a floating value')) 

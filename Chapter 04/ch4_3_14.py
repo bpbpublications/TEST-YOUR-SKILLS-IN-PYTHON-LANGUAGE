@@ -1,0 +1,1 @@
+print(bool(3.14)) #True

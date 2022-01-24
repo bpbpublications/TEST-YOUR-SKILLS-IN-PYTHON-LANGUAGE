@@ -1,0 +1,1 @@
+print(bool([1,2,3])) #True

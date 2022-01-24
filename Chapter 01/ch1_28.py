@@ -1,0 +1,1 @@
+print("The {} of 30 is {:X}".format("hexadecimal", 30))

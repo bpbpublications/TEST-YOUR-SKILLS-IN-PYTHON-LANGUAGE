@@ -1,0 +1,1 @@
+print(bool (-5)) #True

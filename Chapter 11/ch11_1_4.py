@@ -1,0 +1,5 @@
+empty = ()
+
+print(empty)
+
+# ()

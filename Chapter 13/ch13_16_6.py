@@ -1,0 +1,7 @@
+f = open('a.dat', 'a+')
+f.write('Welcome to first line of my file. ')
+f.write('Here comes the second line of my file. ')
+f.write('Third line. ')
+f.seek(0)
+t=f.readlines()
+print(t)

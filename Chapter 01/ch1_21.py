@@ -1,0 +1,1 @@
+print ("Result {0:f}% : {1}!!". format(100, "Congrats"))

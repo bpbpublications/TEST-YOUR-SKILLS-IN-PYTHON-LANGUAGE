@@ -1,0 +1,1 @@
+print(dict([(1,'mon'),(2,'tues'),(3,'wed'),(4,'thu'),(5,'fri')]))

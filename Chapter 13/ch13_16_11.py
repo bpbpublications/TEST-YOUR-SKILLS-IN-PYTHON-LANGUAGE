@@ -1,0 +1,7 @@
+f=open("file.bin","wb")
+f.write(b"This content is for binary file")
+f.close()
+f = open('file.bin', 'rb') 
+content = f.read()
+print(content)
+f.close()
